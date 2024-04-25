@@ -38,6 +38,14 @@ make
 Ahora dirijase al directorio `/bin` y ejecute el programa como `./mi_programa`
 Por ahora el codigo solo se ha probado sobre Linux.
 
+![Algoritmo_Genetico](./pictures/FirstAlgoritmoGen.png)
+
+## Problema del viajero
+
+[![Algoritmo_Genetico_Problema_del_Viajero](./pictures/AlgoritmoGen.png)](https://colab.research.google.com/drive/1vmpZAA0UFMOu1crGBipf6v4-MEBGyev-?usp=sharing)
+
+<p style="text-align:center; font-size: 18px;font-weight:bold">Haz click ▲ Haz click</p>
+
 ### Si necesita installar GLFW y GlAD manualmente 
 
 1. Primero clonamos el repositorio oficial de GLFW `https://github.com/glfw/glfw`
